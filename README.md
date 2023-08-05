@@ -287,7 +287,7 @@ Please see [CHANGELOG](https://github.com/TypiCMS/Base/blob/master/CHANGELOG.md)
 Please see [CONTRIBUTING](https://github.com/TypiCMS/Base/blob/master/CONTRIBUTING.md) for details.
 
 ## Credits
-
+-   [Samuel De Backer](https://twitter.com/zhangliu_eth)
 -   [Samuel De Backer](https://github.com/sdebacker)
 -   [All contributors](https://github.com/TypiCMS/Base/graphs/contributors)
 
